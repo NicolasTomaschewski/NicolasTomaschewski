@@ -18,7 +18,7 @@ Meu nome é Nícolas Tomaschewski Lopes e meu objetivo é me tornar um engenheir
 
 ## Meus Projetos Favoritos
 
-- [Meu Projeto de iniciação científica](https://github.com/NicolasTomaschewski/Trabalho-sobre-Criptografia](https://github.com/NicolasTomaschewski/Simulacao-Satelites)) - Pesquissa desenvolvida na faculdade de engenharia da computação.
+- [Meu Projeto de iniciação científica](https://github.com/NicolasTomaschewski/Simulacao-Satelites) - Pesquissa desenvolvida na faculdade de engenharia da computação.
 - [Projeto voltado para ciência de dados e asteroides](https://github.com/NicolasTomaschewski/Simulacao-Asteroides) - Um estudo de ciência de dados e Python aplicados a Física e a Astronomia.
 <!-- [Projeto DevOps](https://github.com/seu-usuario/projeto-devops) - Descrição do projeto DevOps.-->
 
