@@ -18,8 +18,9 @@ Meu nome é Nícolas Tomaschewski Lopes e meu objetivo é me tornar um engenheir
 
 ## Meus Projetos Favoritos
 
-- [Meu Projeto de iniciação científica](https://github.com/NicolasTomaschewski/Simulacao-Satelites) - Pesquissa desenvolvida na faculdade de engenharia da computação.
+- [Simulação Computacional sobre a Troca de Órbitas de um Satélite Artificial - Meu Projeto de iniciação científica](https://github.com/NicolasTomaschewski/Simulacao-Satelites) - Pesquisa desenvolvida na faculdade de engenharia da computação sobre dinâmicas orbitais de satélites.
 - [Projeto voltado para ciência de dados e asteroides](https://github.com/NicolasTomaschewski/Simulacao-Asteroides) - Um estudo de ciência de dados e Python aplicados a Física e a Astronomia.
+- [Conjectura de Collatz](https://github.com/NicolasTomaschewski/Conjectura-de-Collatz) - Analise e visualização de um importante problema matemático.
 <!-- [Projeto DevOps](https://github.com/seu-usuario/projeto-devops) - Descrição do projeto DevOps.-->
 
 ## Contato
