@@ -2,7 +2,7 @@
 
 ### DevOps • Cloud • Observability • Automation
 
-Estudante de Engenharia da Computação com experiência prática em DevOps, automação e infraestrutura cloud. Atuação com Docker, Linux, AWS, CI/CD e observabilidade em ambientes reais de estágio, incluindo automação com Python, monitoramento com Grafana/Prometheus e orquestração de workflows com Apache Airflow.
+Estudante de Engenharia da Computação com experiência prática em DevOps, automação e infraestrutura cloud. Atuação com Docker, Linux, AWS, CI/CD e observabilidade em ambientes reais, incluindo automação com Python, monitoramento com Grafana/Prometheus e orquestração de workflows com Apache Airflow.
 
 Atualmente focado em:
 
@@ -12,6 +12,10 @@ Atualmente focado em:
 * AWS
 * Automação com Python
 * Linux
+* Sistemas Distribuídos
+* Arquitetura de microsserviços
+* Segurança em ambientes cloud
+* SRE e Platform Engineering
 
 ---
 
@@ -29,8 +33,8 @@ Atualmente focado em:
 
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square)
-![Jaeger](https://img.shields.io/badge/-Jaeger-66CFE3?style=flat-square)
+<!-- ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square)
+![Jaeger](https://img.shields.io/badge/-Jaeger-66CFE3?style=flat-square) -->
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square\&logo=apacheairflow\&logoColor=white)
 
@@ -39,7 +43,6 @@ Atualmente focado em:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?style=flat-square\&logo=gnu-bash\&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
 
 ---
@@ -58,13 +61,13 @@ Implementação de observabilidade distribuída utilizando OpenTelemetry, Grafan
 * Microsserviços Dockerizados
 * Dashboards e monitoramento em tempo real
 
-🔗 Em breve disponível no GitHub
+🔗 https://github.com/NicolasTomaschewski/Trabalho-Final-Sistemas-Distribuidos
 
 ---
 
-### ⚙️ Projeto Hospital — Laboratório DevOps
+### ⚙️ Projeto Hospital - Feito durante a graduação em engenharia
 
-Projeto fullstack utilizado como laboratório prático de DevOps e automação.
+Projeto fullstack utilizado como laboratório prático de programação, DevOps e automação.
 
 #### Tecnologias utilizadas
 
@@ -75,7 +78,7 @@ Projeto fullstack utilizado como laboratório prático de DevOps e automação.
 * JavaScript
 * SQL
 
-🔗 Em desenvolvimento
+🔗 https://github.com/NicolasTomaschewski/Projeto_Hospital
 
 ---
 
@@ -91,39 +94,6 @@ Projeto de iniciação científica voltado para simulação computacional de din
 * Análise computacional
 
 🔗 https://github.com/NicolasTomaschewski/Simulacao-Satelites
-
----
-
-### ☄️ Ciência de Dados e Asteroides
-
-Projeto envolvendo ciência de dados aplicada à física e astronomia.
-
-#### Destaques
-
-* Processamento de dados
-* Visualização computacional
-* Python para análise científica
-
-🔗 https://github.com/NicolasTomaschewski/Simulacao-Asteroides
-
----
-
-## Atualmente Estudando
-
-* Kubernetes
-* Terraform
-* Observabilidade distribuída
-* Arquitetura de microsserviços
-* Segurança em ambientes cloud
-* SRE e Platform Engineering
-
----
-
-## Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasTomaschewski\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasTomaschewski\&layout=compact\&theme=tokyonight)
 
 ---
 
